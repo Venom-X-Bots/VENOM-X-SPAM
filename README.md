@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝑃𝑂𝑊𝐸𝑅𝐹𝑈𝐿𝐿 𝑆𝑃𝐴𝑀 𝐵𝑂𝑇</h4>
 
-<p align="center"><a href="https://t.me/PyXen"><img src="https://te.legra.ph/file/07d39b85c6cea32f15259.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/PyXen"><img src="https://graph.org/file/8d771cd45a1bc53254501.jpg" width="400"></a></p>
 
 
 
