@@ -32,7 +32,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("\n𝐗𝐁𝐨𝐭𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ⚡\nMy Master ---> @𝐏𝐲𝐗𝐞𝐧")
+print("\n𝑉𝐸𝑁𝑂𝑀-𝑋-𝐵𝑂𝑇𝑆 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝\nMy Master ---> @its_Aryaan")
 
 
 async def main():
